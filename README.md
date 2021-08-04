@@ -1,7 +1,7 @@
 <img src="https://github.com/kaspak/tindog-website/blob/main/Tindog-demo.gif" height="400">
 
 # About
-This is a HTML/CSS/Bootstrap5 demo website for a (fake) mobile app called Tindog. I created this website to learning Bootstrap5 and practice working with more advanced CSS concepts I learned from Angela Yu's Web Development course on Udemy.
+This is a HTML/CSS/Bootstrap5 demo website for a (fake) mobile app called Tindog. I learned Bootstrap5 and practiced working with more advanced CSS concepts I learned from Angela Yu's Web Development course on Udemy.
 
 # Features
 - Stylesheets and fonts from Google, Bootstrap, and FontAwesome
